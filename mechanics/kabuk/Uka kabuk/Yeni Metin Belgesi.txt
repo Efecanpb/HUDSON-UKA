@@ -1,0 +1,1 @@
+shell 0.5 dosyası shell 1.4.2 dosyasının 1/2 olan versiyonu.
